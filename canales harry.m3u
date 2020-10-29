@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 ,directtv
+
+https://ul.cdn946.net:8443/hls/e22ikhoklfgl5zn.m3u8?s=N_XvO4gXSu-aNRVneHys6w&e=1604003492
+
+#EXTINF:-1 ,directv2
+
+https://ul.cdn946.net:8443/hls/xl27bc.m3u8?s=VMHnYRPmzqxQ7i3mS1MA5Q&e=1604003740
+
+#EXTINF:-1 ,foxsportspremium
+
+https://espare.tk/live/fox_sports_premium_lat.m3u8?token=RUi5HHj56urzLfkITdxgjg&expires=1604008003
+
+#EXTINF:-1 ,tntsports
+
+https://espare.tk/live/tnt_sports_lat.m3u8?token=rSGEZPlAx-vnfa1Q2pet2Q&expires=1604008069
+
+#EXTINF:-1 ,Movistarchampions
+
+https://espare.tk/live/campeones.m3u8?token=6CL-ohEe3WFlvi4mByYkxg&expires=1604008226
+
+#EXTINF:-1 ,naruto
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/572723/playlist.m3u8?terminate=false&deviceId=972e4485-a0a4-4a7f-b8f9-073af30e7335&deviceVersion=71.0.3770.284&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Opera&sid=e5de12a9-1a01-11eb-bde1-0242ac110002&advertisingId=&deviceLat=4.6493&deviceLon=-74.0617&deviceDNT=false&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 ,anime
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/subtitle/es/playlist.m3u8?terminate=false&deviceId=972e4485-a0a4-4a7f-b8f9-073af30e7335&deviceVersion=71.0.3770.284&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Opera&sid=e5de12a9-1a01-11eb-bde1-0242ac110002&advertisingId=&deviceLat=4.6493&deviceLon=-74.0617&deviceDNT=false&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 ,anime2
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/3063648/playlist.m3u8?terminate=false&deviceId=972e4485-a0a4-4a7f-b8f9-073af30e7335&deviceVersion=71.0.3770.284&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceType=web&deviceMake=Opera&sid=e5de12a9-1a01-11eb-bde1-0242ac110002&advertisingId=&deviceLat=4.6493&deviceLon=-74.0617&deviceDNT=false&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 ,HBO
+
+https://u65464.cdn884.net:8443/hls/liqi158i6t.m3u8?s=oJFZCcWBGgfQR7M20Z_pvQ&e=1604010465
+
+#EXTINF:-1 ,hbo2
+
+https://ul.cdn946.net:8443/hls/w4r75r3i9.m3u8?s=D7xJbzHI6DVEYN69wu5yDQ&e=1604011133
+
+#EXTINF:-1 ,FOX
+
+https://u65464.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=xImQXc6INr2vhj37Axn53Q&e=1604011249
+
+#EXTINF:-1 ,tyc
+
+https://espare.tk/live/tyc_sports_lat.m3u8?token=rjIRFT2XsnDPYohxwtVX4g&expires=1604011969
